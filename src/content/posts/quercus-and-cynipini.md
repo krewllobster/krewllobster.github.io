@@ -39,9 +39,7 @@ Some of the saplings I've left for multiple growing seasons; sometimes intention
 
 ## Cyinipini
 
-### "Oak gall wasp communities: Evolution and ecology" [^hayward2005]
-
-My initial understanding was that the galls were a form of protection for the wasp's egg. However, the galls serve as host to a large number of other parasitoid species that may consume the original wasp larvae:
+My initial understanding was that the galls were a form of protection for the wasp's egg. However, once I googled up "Oak gall wasp communities: Evolution and ecology"[^hayward2005], I learned that the galls serve as host to a large number of other parasitoid species that may consume the original wasp larvae:
 
 > Oak cynipid galls are microcosms of intense ecological activity, and their study holds much promise for diverse fields in evolution and ecology. They commonly contain at least three trophic levels (gall tissue; gall wasps and inquilines; parasitoids and predators), and much research has focussed on their value as model tritrophic systems. Interactions between these levels can be complex, and hyperparasitoids and superparasitoids also occur in oak gall communities.[^hayward2005]
 
