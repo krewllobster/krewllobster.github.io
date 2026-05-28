@@ -256,6 +256,149 @@ figure.figure-row figcaption {
   }
 }
 
+/* Two-column: original text | commentary.
+   Each .two-col is one row — original on the left, commentary on the right.
+   Rows align independently, so a long commentary pushes the NEXT row down on
+   both sides (kept in sync by stacking .two-col blocks vertically). */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 1.5rem 0;
+  /* widen beyond the narrow prose column on large screens */
+  margin-left: calc(50% - 50vw + 1.25rem);
+  margin-right: calc(50% - 50vw + 1.25rem);
+}
+
+@media (min-width: 60rem) {
+  .two-col {
+    margin-left: -8rem;
+    margin-right: -8rem;
+  }
+}
+
+.two-col > div > :first-child { margin-top: 0; }
+.two-col > div > :last-child { margin-bottom: 0; }
+
+.two-col .original {
+  font-family: var(--font-serif);
+}
+
+.two-col .commentary {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--color-muted);
+  border-left: 3px solid var(--color-rule);
+  padding-left: 1rem;
+}
+
+@media (max-width: 48rem) {
+  .two-col {
+    grid-template-columns: 1fr;
+    margin-left: 0;
+    margin-right: 0;
+    gap: 0.75rem;
+  }
+  .two-col .commentary {
+    border-left: 0;
+    padding-left: 0;
+    border-top: 1px solid var(--color-rule);
+    padding-top: 0.75rem;
+  }
+}
+
+/* Three-column: original | modern rendition | commentary.
+   Each .three-col is one row; rows stack so a long cell pushes the next row
+   down on all three sides together. */
+.post-body { counter-reset: three-col; }
+
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  margin-left: calc(50% - 50vw + 1.25rem);
+  margin-right: calc(50% - 50vw + 1.25rem);
+  counter-increment: three-col;
+  position: relative;
+}
+
+.three-col::before {
+  content: counter(three-col);
+  position: absolute;
+  top: 0;
+  left: -2.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 60rem) {
+  .three-col::before {
+    position: static;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+}
+
+@media (min-width: 60rem) {
+  .three-col {
+    margin-left: -8rem;
+    margin-right: -8rem;
+  }
+}
+
+.three-col .commentary {
+  display: none;
+}
+
+.three-col > div > :first-child { margin-top: 0; }
+.three-col > div > :last-child { margin-bottom: 0; }
+
+.three-col .original {
+  font-family: var(--font-serif);
+}
+
+.three-col .modern {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  border-left: 3px solid var(--color-rule);
+  padding-left: 1rem;
+}
+
+.three-col .commentary {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--color-muted);
+  border-left: 3px solid var(--color-rule);
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+.three-col .commentary:empty::before {
+  content: "—";
+  color: var(--color-rule);
+  font-style: normal;
+}
+
+@media (max-width: 60rem) {
+  .three-col {
+    grid-template-columns: 1fr;
+    margin-left: 0;
+    margin-right: 0;
+    gap: 0.75rem;
+  }
+  .three-col .modern,
+  .three-col .commentary {
+    border-left: 0;
+    padding-left: 0;
+    border-top: 1px solid var(--color-rule);
+    padding-top: 0.75rem;
+  }
+}
+
 /* Site footer */
 .site-footer {
   margin-top: 4rem;
