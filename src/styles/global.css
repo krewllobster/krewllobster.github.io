@@ -317,8 +317,8 @@ figure.figure-row figcaption {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1.5rem;
   margin: 1.5rem 0;
-  margin-left: calc(50% - 50vw + 1.25rem);
-  margin-right: calc(50% - 50vw + 1.25rem);
+  margin-left: calc(50% - 50vw + 2rem);
+  margin-right: calc(50% - 50vw + 2rem);
   counter-increment: three-col;
   position: relative;
 }
@@ -343,12 +343,6 @@ figure.figure-row figcaption {
   }
 }
 
-@media (min-width: 60rem) {
-  .three-col {
-    margin-left: -8rem;
-    margin-right: -8rem;
-  }
-}
 
 .three-col > div > :first-child { margin-top: 0; }
 .three-col > div > :last-child { margin-bottom: 0; }
