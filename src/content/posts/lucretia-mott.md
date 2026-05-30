@@ -1,20 +1,8 @@
 ---
-title: The Beautiful Effects of Doing Right
+title: A Sermon- Delivered at Yardleyville, Bucks Co., PA, September 26, 1858
 date: 2026-05-27
 description: An interpretation of a sermon
 ---
-
-<!-- ## Lucretia Mott
-
-In fifth grade I wrote a book report on a biography of Lucretia Mott. I recall only that it was an interminably boring book.
-
-This year (roughly 25 years later), I came across [www.quakertheology.org](https://quakertheology.org/), an independent journal founded by [Chuck Fager](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Chuck_Fager&ved=2ahUKEwj6vu2Mv9qUAxUAKlkFHakwFQMQFnoECB8QAQ&usg=AOvVaw1Nf183Mii1OAwDF6G1DKG3) which ran from 1999-2020. Here I found a transcript of one of Mott's sermons which, while long, leads me to think that perhaps reading her biography influenced me more than I was aware: [Lucretia Mott — A Sermon: Delivered at Yardleyville, Bucks Co., PA, September 26, 1858](https://quakertheology.org/lucretia-mott-sermon/)
-
-I grew up thinking that the bible was mostly used to hit people around the head to act a certain way. Bible thumpers. We watched the movie "Jesus Camp" at a Quaker youth group lock-in.
-
-This sermon is a delightful reversal. It is a tongue-lashing that works from first-principles to eviscerate those that are "outwardly christian" yet still support war and slavery, "relics of the dark ages". It is a whole-hearted support of "Christian" where "Christian" means  -->
-
-## A Sermon -- Delivered at Yardleyville, Bucks Co., PA, September 26, 1858
 
 <figure>
     <img src="/images/liberator-mott-sermon-preview.png" alt="Scan of the first paragraph of 'A Sermon: Delivered at Yardleyville, Bucks Co., PA, September 26, 1858' as published in The Liberator on Oct. 29, 1858" style="border: 2px solid #000; border-radius: 6px;" />
@@ -22,9 +10,61 @@ This sermon is a delightful reversal. It is a tongue-lashing that works from fir
 
 The original text of Mott's sermon was published in "The Liberator" in October, 1858. The original can be viewed on fair-use.org [(download PDF)](https://fair-use.org/the-liberator/1858/10/29/the-liberator-28-44.pdf) -- scroll to page 176 to see the full reproduction.
 
+The sermon revolves around the "testimony of one of the modern writers":
+
+<div>
+<div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+
+> "The kingdom of God is within us", and "Christianity will not have performed its office in the earth until its professors have learned to respect the rights and privileges of conscience, by a toleration without limit, a faith without contention."
+
+</div>
+</div>
+
+These quotes are written by Frederick J. Foxton in his book "Popular Christianity: its Transition State, and Probable Development" ([archive.org scan](https://archive.org/details/popularchristian00foxtrich/page/iv/mode/2up)).
+
+Mott decided to use "The kingdom of God" in place of "the kingdom of Christ". I don't know if that's significant at all, but I thought it mentionable. The quote is in the first paragraph of the right hand page
+
+<figure>
+    <img src="/images/foxton-preface-page-v.png" alt="Scan of pages iv and v of the preface of 'Popular Christianity: its Transition State, and Probable Development' by Frederick J. Foxton" style="border: 2px solid #000; border-radius: 6px;" />
+</figure>
+
+I have not read the entire book, but I did poke through the first few pages. On page 5, we read:
+
+> With the general diffusion of knowledge amongst the people, a Christianity without superstition — the only basis of a really catholic creed — may become possible.
+
+Mott tugs on this thread after introducing the "testimony"; asserting that people in all times, and of all faiths have had some idea of the immortal human spirit, and that it leads to truth, goodness, justice, and love. She stresses multiple times that Jesus was not the first time people have figured these things out. This is where my favorite turn of phrase is -- she refers to "all these great principles" which are "truth, goodness, justice, and love", and then describes them as _these beautiful effects of doing right_.
+
+> Believe not, then, that all these great principles were only known in the day of the advent of the Messiah to the Jews–these beautiful effects of doing right.
+
+So, she continues, if the understanding of the divine spirit is knowable, and can change over time, then its high time to remember that we don't need anyone to teach us religion because we will "...come to the source -- the immediate access which we have made to the source of all truth, to the source of all good". Whenever religion gets organized, and sects develop, and start having creeds and ceremonies, "actual good behavior drops":
+
+> And right down to the present, we see the same tendency and the same results. We need prophets among us — bold non-conformists — to come forth and say: your baptisms are not the right tests; your communions are not the proper evidence of your intimate union with the Father and with the Son. What are your Sabbath-day observances but conventional rites? <mark>Your silent meetings, your plain attire, your peculiar language</mark> — are these the rightful tests of your sound faith, your pure worship? No more than the rituals of any other denomination are.
+
+She calls out Quakers along with everyone else for being performative and for holding the performance as a higher obligation than "genuine acts of love toward ordinary people the world over". That there are christians 'in name only' who are "horrified if anyone denies what they've decided counts as his divinity".
+
+Here, she hearkens back to the beginning, repeating part of the initial quote:
+
+> Christianity will not have performed its work in the earth, until its followers have learned to respect the rights and privileges of conscience, by a toleration without limit, a faith without contention.
+
+Intolerance leads to despotism and crucifixion. So why do people identify as christian but act so un-christian? Because creeds tell you that scripture is the word of God and so it uses scripture to justify un-christian things. We shouldn't use examples of ancients as binding authority for now.
+
+For example, people drink because scripture is used to sanction the use of alcohol. Scripture is also used to defend "the abomination of American slavery". We need to stop using the bible to justify things that are wrong.
+
+Instead, look inwardly to the principles of justice, love and truth.
+
+She goes on to say that the christian doctrine of "total depravity" -- which I'm interpreting as original sin? -- is wrong. Human nature is `animal => intellectual => spiritual`, a "beautiful trinity within the human being".
+
+> the standard Christian move is to condemn the body and build a kind of rebirth on top of that self-loathing. That is the error: we are not recognizing the divine worth of all human instincts the way we ought to.
+
+Instead, we should appeal to the inner light that we know exists in everyone. This is "revealed religion".
+
 ---
 
-## Full sermon — original, modern rendition, commentary
+To be continued...this gets us to about paragraph 25.
+
+---
+
+## Full sermon — original | modern rendition | summary
 
 <div class="three-col">
 <div class="original">
@@ -41,7 +81,9 @@ Two lines from a contemporary writer[^p1-foxton] frame what I want to say:
 > "Christianity will not have performed its office in the earth until its professors have learned to respect the rights and privileges of conscience, by a toleration without limit, a faith without contention."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Mott opens with two lines from Foxton that will frame her whole sermon: God's kingdom is inside us, and Christianity hasn't done its job until believers respect everyone's freedom of conscience.
 
 </div>
 </div>
@@ -59,7 +101,9 @@ And have we not evidence, both from our own religious records, and those of all 
 The evidence is everywhere — in our own religious records and in those of every other tradition — that this divine teaching has been recognized in some form. There's a religious instinct built into human nature, and depending on the circumstances of someone's birth, their education, and how they exercise their own free will, that instinct grows and produces similar results across every age and every people.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Humans across all cultures and ages have arrived at the same religious instinct, shaped by where they were born and how they were raised.
 
 </div>
 </div>
@@ -75,7 +119,9 @@ This has been likened, by various figures, emblems, parables, to things without 
 People have described this [religious instinct] through images, symbols, and parables — comparing it to things in the world around us. It's been interpreted and explained in many ways, because no language is purely spiritual; we have to talk about spiritual experience using words borrowed from ordinary things. That's exactly what we see in the Jewish scriptures and the Christian scriptures: they're full of symbols and parables.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Because we have no purely spiritual language, every tradition describes the religious instinct through metaphor — which is why scripture is full of symbols and parables.
 
 </div>
 </div>
@@ -97,7 +143,9 @@ This spirit-nature is what made him a living soul. Later writers acknowledged th
 > "Thou gavest also thy good spirit to instruct us."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+This inner religious instinct is what scripture calls "the spirit" — the divine breath that makes us living souls and teaches us from within.
 
 </div>
 </div>
@@ -137,7 +185,9 @@ The principle is direct: do right and you live by your righteousness; turn from 
 > "when the righteous turneth away from his righteousness and committeth iniquity, in the wickedness that he doeth shall he die."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The Old Testament writers already knew the spirit was eternal, that divine law would be written on hearts rather than tablets, and that each person is judged on their own actions — not on Christian doctrine that came later.
 
 </div>
 </div>
@@ -155,7 +205,9 @@ So the teachings of this divine spirit have been the same throughout history: tr
 > "nigh unto them, in the mouth, and in the heart."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The same moral teachings — truth, goodness, justice, love — have always been available, but people have closed themselves off and substituted other things for the divine light already within them.
 
 </div>
 </div>
@@ -163,7 +215,7 @@ So the teachings of this divine spirit have been the same throughout history: tr
 <div class="three-col">
 <div class="original">
 
-The truths of inspiration are the way of life, and he that walketh in the right shall grow stronger and stronger. These were the teachings of the light to walk uprightly; to act righteously; to be just; to be faithful. With the merciful, thou wilt show thyself merciful; with an upright man thou wilt show thyself upright; with the pure, thou wilt show thyself pure: Believe not, then, that all these great principles were only known in the day of the advent of the Messiah to the Jews–these beautiful effects of doing right.
+The truths of inspiration are the way of life, and he that walketh in the right shall grow stronger and stronger. <mark>These were the teachings of the light to walk uprightly; to act righteously; to be just; to be faithful.</mark> With the merciful, thou wilt show thyself merciful; with an upright man thou wilt show thyself upright; with the pure, thou wilt show thyself pure: <mark>Believe not, then, that all these great principles were only known in the day of the advent of the Messiah to the Jews–these beautiful effects of doing right.</mark>
 
 </div>
 <div class="modern">
@@ -179,7 +231,9 @@ The truths of inspiration are the way of life — whoever walks in the right gro
 Don't believe, then, that these great principles — these beautiful effects of doing right — were only known once the Messiah came to the Jews.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+These moral principles — uprightness, justice, mercy — are the "beautiful effects of doing right," and they were known long before Christianity arrived.
 
 </div>
 </div>
@@ -203,7 +257,9 @@ And to a tiny seed sown in a field that grows to become:
 The word of God is alive and bears fruit — once received in one person, it generates the same truth in the next. Another beautiful image is bodily growth: first the little child, then the young person, then the mature adult of full spiritual stature. We need to read and accept all of this with intelligence and reason.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Our understanding of this spirit grows the way yeast spreads through dough or a child grows into an adult — and we should approach it rationally rather than mystically.
 
 </div>
 </div>
@@ -221,7 +277,9 @@ For too long, religion has commanded reverence by wrapping the growth of our own
 I know this gets dismissed as merely "the Quaker doctrine," a Quaker delusion, and it's attacked everywhere. We know how Quakers were treated in their early days. We know how Jesus himself was received when he preached — precisely because his teachings led him to non-conformity with the rituals of his day. He was driven to speak out against the doctrines of the Scribes and Pharisees of his time.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+We don't need miracles or anyone to teach us — we can access truth directly through our own awake, thinking minds. This gets dismissed as a Quaker delusion, but Jesus himself was attacked for the same kind of non-conformity.
 
 </div>
 </div>
@@ -237,7 +295,9 @@ All ecclesiastical history goes to assure us, that when there has been a sectari
 The whole history of organized religion confirms that whenever a denomination raises its own banner, builds a purely verbal theology, and institutes ceremonial performances, actual good behavior drops. We all know how bitter sectarianism has become — how hatred and hostility have grown among people, even among those who profess Jesus's name most loudly. They're horrified if anyone denies what they've decided counts as his divinity. Yet when someone points to the fruits of obedience — to the law of justice and goodness lived out in the soul — they dismiss it as "mere morality," "mere human benevolence," or salvation-by-works. That's what sects do. It takes a prophet to step forward and declare your circumcisions and your false lights worthless. The condition for acceptance has always been the same: the working of righteousness — doing justly, loving mercy, and walking humbly before God — not making offerings and sacrifices.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Whenever religion gets organized into sects with creeds and ceremonies, actual good behavior drops, and Christians end up policing belief about Jesus's divinity while dismissing actual moral conduct as "mere morality."
 
 </div>
 </div>
@@ -253,7 +313,9 @@ And so, down to the present time, we see the same tendency and the same results.
 And right down to the present, we see the same tendency and the same results. We need prophets among us — bold non-conformists — to come forth and say: your baptisms are not the right tests; your communions are not the proper evidence of your intimate union with the Father and with the Son. What are your Sabbath-day observances but conventional rites? Your silent meetings, your plain attire, your peculiar language — are these the rightful tests of your sound faith, your pure worship? No more than the rituals of any other denomination are.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+We need prophets bold enough to say that baptism, communion, sabbath observance, and even Quaker silent meetings and plain dress are not real evidence of faith — they're just rituals.
 
 </div>
 </div>
@@ -269,7 +331,9 @@ We may take every denomination, and where we find them setting up their forms as
 Look at every denomination. Wherever we find them treating their own forms as proof of worship — placing those forms above genuine acts of love toward ordinary people the world over — someone needs to publicly call it out for what it is. Someone needs to say plainly: a person who is Christian only on the outside is not actually a Christian. We need better evidence than what we currently accept.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Across every denomination, when ritual takes precedence over love for ordinary people, someone needs to call it out: being Christian on the outside isn't being Christian.
 
 </div>
 </div>
@@ -285,7 +349,9 @@ Christianity will not have performed its work in the earth, until its followers 
 Christianity will not have done its work on earth until its followers have learned to respect everyone's freedom of conscience — through unlimited tolerance and a faith without contention.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+(Returning to her thesis from P1.) Christianity's job isn't done until believers respect everyone's freedom of conscience.
 
 </div>
 </div>
@@ -293,7 +359,7 @@ Christianity will not have done its work on earth until its followers have learn
 <div class="three-col">
 <div class="original">
 
-What have we to do with granting to another a point, a belief, a doctrine? It is assumption. It leads to despotism. It has led to crucifixion; and it leads in the same direction now, as far as the customs of the times will admit. The name is cast out now, just as much as ever. And why is it? Because there is a verbal creed set up. Because there are doctrines fixed upon as being the essential requirements of believers. They assume that the scriptures are the word of God instead of taking them and ascertaining the uniform testimonies to righteousness and truth, as found in the various pages, and discriminating between these and the practices of those ancients, many of whom were semi-civilized, many of whom regarded their God as the God of war.
+What have we to do with granting to another a point, a belief, a doctrine? It is assumption. It leads to despotism. It has led to crucifixion; and it leads in the same direction now, as far as the customs of the times will admit. The name is cast out now, just as much as ever. And why is it? Because there is a verbal creed set up.<mark>Because there are doctrines fixed upon as being the essential requirements of believers.</mark> They assume that the scriptures are the word of God instead of taking them and ascertaining the uniform testimonies to righteousness and truth, as found in the various pages, and discriminating between these and the practices of those ancients, many of whom were semi-civilized, many of whom regarded their God as the God of war.
 
 </div>
 <div class="modern">
@@ -301,7 +367,9 @@ What have we to do with granting to another a point, a belief, a doctrine? It is
 What business do we have granting or withholding another person's beliefs or doctrines? It's arrogance. It leads to tyranny. It has led to crucifixion — and it still leads in the same direction now, as far as the customs of the day allow. Those who speak truthfully in line with what Christ actually taught are still cast out today, just as before. Why? Because a verbal creed has been set up. Because doctrines have been fixed as the essential requirements for believers. People assume that the scriptures _are_ the word of God, instead of reading them and identifying the moral truths that recur consistently across their pages — and distinguishing those truths from the practices of ancient people, many of whom were semi-civilized, many of whom regarded their God as the God of war.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Intolerance leads to tyranny and crucifixion. It starts with treating creeds as required beliefs and the whole Bible as God's word, instead of sifting it for moral truths and distinguishing those from the practices of semi-civilized ancients.
 
 </div>
 </div>
@@ -309,7 +377,7 @@ What business do we have granting or withholding another person's beliefs or doc
 <div class="three-col">
 <div class="original">
 
-The scriptures should be read intelligently, so that we should not be going back to the example of those ancients as our authority for the present day. They do not justify that. I would not shock the religious feelings of any, but I would ask them to read their scriptures again, and see if they can find any authority for sustaining their actions, and especially such as have done injury to their fellow-beings and themselves.
+<mark>The scriptures should be read intelligently, so that we should not be going back to the example of those ancients as our authority for the present day.</mark> They do not justify that. I would not shock the religious feelings of any, but I would ask them to read their scriptures again, and see if they can find any authority for sustaining their actions, and especially such as have done injury to their fellow-beings and themselves.
 
 </div>
 <div class="modern">
@@ -317,7 +385,9 @@ The scriptures should be read intelligently, so that we should not be going back
 The scriptures should be read intelligently, so that we don't keep treating the example of those ancient people as binding authority for the present day. They don't justify that. I wouldn't want to shock anyone's religious feelings, but I would ask them to read their scriptures again and ask themselves honestly whether they find any real authority there for the way they're living — especially for the actions that have done injury to their fellow human beings and to themselves.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Scripture should be read intelligently, not used as binding authority for present-day actions — especially actions that harm others.
 
 </div>
 </div>
@@ -325,7 +395,7 @@ The scriptures should be read intelligently, so that we don't keep treating the 
 <div class="three-col">
 <div class="original">
 
-Especially are they appealed to for sanctioning the use of wines and strong drinks, as our authority for the far-extending influence of these for evil among the children of men. So has it been the practice to cite the example of olden times in approval of the abomination of American slavery, as being a patriarchal institution. It is time that we should no longer err. We do err, not knowing the scriptures nor the power of God, when we resort to this Bible to find authority for any thing that is wrong.
+Especially are they appealed to for sanctioning the use of wines and strong drinks, as our authority for the far-extending influence of these for evil among the children of men. So has it been the practice to cite the example of olden times in approval of the abomination of American slavery, as being a patriarchal institution. It is time that we should no longer err. <mark>We do err</mark>, not knowing the scriptures nor the power of God, <mark>when we resort to this Bible to find authority for any thing that is wrong.</mark>
 
 </div>
 <div class="modern">
@@ -333,7 +403,9 @@ Especially are they appealed to for sanctioning the use of wines and strong drin
 Scripture is appealed to most especially for sanctioning the use of wines and strong drinks — taken as authority for the far-reaching evil these have spread among humanity. The same practice cites ancient examples to defend the abomination of American slavery as a "patriarchal institution." It is time we stopped making this mistake. We are making it — failing to understand either the scriptures or the power of God — whenever we go to this Bible to find authority for anything that is wrong.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Scripture gets weaponized to justify alcohol and to defend American slavery as a "patriarchal institution" — both abuses of the Bible.
 
 </div>
 </div>
@@ -349,7 +421,9 @@ Scripture is appealed to most especially for sanctioning the use of wines and st
 Instead, there is a teaching from within that we should follow. The great principles of justice, love, and truth are planted in human hearts. If we pay proper attention to those, we will have no need to go back to ancient practices for permission to act as we do today.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Justice, love, and truth are already planted in every human heart — that's the teaching we should follow, not ancient precedent.
 
 </div>
 </div>
@@ -365,7 +439,9 @@ We cannot help our opinions in these [speculative] matters; this is impossible. 
 We can't help our opinions in speculative matters like these — it's impossible. They grow up with us, and depend on circumstances, on our education, and on the influences immediately around us. So our skepticism is justified. It is our religious duty to be skeptical of the schemes of salvation. Religious authority has imposed reverence on believers by not letting them think — keeping them too afraid to apply the test of enlightened reason that God has given them, for fear of being labeled an infidel.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Beliefs are shaped by upbringing and circumstance, not chosen. Skepticism of theology is a religious duty — and religious authority has suppressed reason by threatening doubters with the label of "infidel."
 
 </div>
 </div>
@@ -373,7 +449,7 @@ We can't help our opinions in speculative matters like these — it's impossible
 <div class="three-col">
 <div class="original">
 
-It is time the theology of the day passed away. And it has, to a great extent. It is modified. As an instance, we might refer to the New School Presbyterians; arraying themselves against the old Calvinistic doctrines. Others might be enumerated. The people now are ceasing to believe what their verbal creed teaches them. If there was a freedom and independence among them; such as the truth would give, they would be less trammelled. 'If the truth shall make you free, ye shall be free indeed.'
+It is time the theology of the day passed away. And it has, to a great extent. It is modified. As an instance, we might refer to the New School Presbyterians; arraying themselves against the old Calvinistic doctrines. Others might be enumerated. <mark>The people now are ceasing to believe what their verbal creed teaches them. If there was a freedom and independence among them; such as the truth would give, they would be less trammelled. 'If the truth shall make you free, ye shall be free indeed.'</mark>
 
 </div>
 <div class="modern">
@@ -383,7 +459,9 @@ It is time the theology of the day passed away. And to a great extent, it has. I
 > "If the truth shall make you free, ye shall be free indeed."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The old theology is already passing away — even Presbyterians are pushing back on Calvinist doctrines — and the truth would free people further if they let it.
 
 </div>
 </div>
@@ -391,7 +469,7 @@ It is time the theology of the day passed away. And to a great extent, it has. I
 <div class="three-col">
 <div class="original">
 
-[Yet] how few are made free by the truth! [Too many] are hampered by their undue adherence to the gloomy appendages of the church. I would not set a high opinion on the Catholic Church, the Episcopalian, Presbyterian, Methodist, Quaker, or any other. They all have their elements of goodness and they all have their elements of bondage; and if we yield obedience to them, we become subjects to them, and are brought under bondage. If we acknowledge this truth, and bow to it, we shall dare to show our dissent. We will let them alone, treating them with a toleration without limit, a faith without contention, with regard to their opinions.
+[Yet] how few are made free by the truth! [Too many] are hampered by their undue adherence to the gloomy appendages of the church. I would not set a high opinion on the Catholic Church, the Episcopalian, Presbyterian, Methodist, Quaker, or any other. They all have their elements of goodness and they all have their elements of bondage; and if we yield obedience to them, we become subjects to them, and are brought under bondage. <mark>If we acknowledge this truth, and bow to it, we shall dare to show our dissent. We will let them alone, treating them with a toleration without limit, a faith without contention, with regard to their opinions.</mark>
 
 </div>
 <div class="modern">
@@ -399,7 +477,9 @@ It is time the theology of the day passed away. And to a great extent, it has. I
 Yet how few are actually made free by the truth! Too many are hampered by undue adherence to the gloomy trappings of the church. I would not hold a high opinion of the Catholic Church, the Episcopalian, Presbyterian, Methodist, Quaker, or any other. They all have their elements of goodness, and they all have their elements of bondage. If we yield obedience to them, we become their subjects, brought under bondage. If we acknowledge this truth and bow to it, we will dare to show our dissent. We will let them alone, treating them with a toleration without limit, a faith without contention, with regard to their opinions.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+No denomination — Catholic, Protestant, or Quaker — deserves elevated status. They all have goodness and they all have bondage, and our job is to dissent without contention.
 
 </div>
 </div>
@@ -415,7 +495,9 @@ The doctrines of Christianity are [also] perverted in order to sustain the doctr
 Christian doctrine has also been twisted to prop up the idea that human beings are born totally depraved. By buying into that, we give away what is actually ours: a proper sense of the divine value of the human being in all its dimensions — first the animal, then the intellectual, then the spiritual. None of these dimensions are properly understood. Together they form a beautiful trinity within the human being. As the saying goes: "the glory of the natural [is] one, and the glory of the spiritual another." But the standard Christian move is to condemn the body and build a kind of rebirth on top of that self-loathing. That is the error: we are not recognizing the divine worth of all human instincts the way we ought to. That is why I think it necessary to speak up — even if I get branded a heretic for it. And in believing this beautiful trinity and asserting it publicly, I do not feel I am pushing some peculiarly Quaker dogma. It is not. In our day, every denomination — and people of no denomination at all — are increasingly recognizing it. They acknowledge it once it's presented free of the dour, heavy framing that comes with sectarian religion.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The doctrine of total depravity is wrong. Human nature has three good dimensions — animal, intellectual, spiritual — a "beautiful trinity," and all three deserve respect, not the body's condemnation.
 
 </div>
 </div>
@@ -431,7 +513,9 @@ When we thus appeal to the teachings of the divine spirit, we shall find it to e
 When we appeal to the teachings of the divine spirit in this way, we will find it living in every human heart. _This_ is what "revealed religion" actually means, and it is time it was claimed as such. It is time that what people dismiss as "mere morality" was preached as the everlasting, divine truth of God. As that truth shines in the hearts and minds of human beings, and they come to receive it, they will see its glory — and it will be the very glory that was once attributed to Christ alone, now dwelling in ordinary people, full of grace and truth. People overlook it precisely because it is so simple.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+What lives in every human heart — what we dismiss as "mere morality" — is the real revealed religion. The glory once reserved for Christ alone is in ordinary people.
 
 </div>
 </div>
@@ -451,7 +535,9 @@ There is something real to the idea of inner renewal — we can even call it "re
 But he was speaking specifically to the Jews of his time, who genuinely did need to be reborn — to break free of their old forms and ceremonies. He was not making a universal claim that every human starts out corrupt.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Spiritual renewal is real, but Jesus's "born again" line was specific advice to the Jews of his time about breaking from dead ritual — not a universal claim that humans are born corrupt.
 
 </div>
 </div>
@@ -471,7 +557,9 @@ Jesus's answer to Nicodemus — who was treating this idea as something miraculo
 In other words: don't treat this as magic. There are two kinds of things — physical and spiritual — and being "born again" simply names the second one.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+When Nicodemus treated "born again" as miraculous, Jesus clarified: it just names the spiritual dimension, not magic.
 
 </div>
 </div>
@@ -487,7 +575,9 @@ We may all admit, that if we receive the divine spirit, in its operations in our
 We can all admit this: if we receive the divine spirit and let it work in our lives, there will be no mistaking it. It will function as a check against evil, and if we obey it, it will be renewing in its nature. It will help us understand what is spiritual and tell it apart — without devaluing what is natural.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+When we let the divine spirit work in our lives, it checks our evil impulses and renews us — and helps us distinguish spiritual from natural without diminishing either.
 
 </div>
 </div>
@@ -511,7 +601,9 @@ If we try to govern ourselves and our feelings by these low principles, they wil
 The natural person has natural powers and abilities. The intellectual person has powers that differ from those. And the spiritual person — having moved beyond both — no longer feels the pull of natural appetites.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+When we let baser appetites rule us, the result is slavery and war. The natural, intellectual, and spiritual person each have their own powers — and the spiritual person has moved past being pulled around by base appetites.
 
 </div>
 </div>
@@ -527,7 +619,9 @@ We are not to be regarded as denying the Scriptures, because we have read them [
 We are not to be regarded as denying the Scriptures simply because we have read them differently — and so have learned Christianity differently from many of today's theological authorities.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Reading scripture differently from established theologians isn't the same as denying it.
 
 </div>
 </div>
@@ -543,7 +637,9 @@ Men are too much wedded to these opinions. Women in particular have pinned their
 Men are much too wedded to these opinions. Women in particular have pinned their faith to ministers' sleeves. They don't dare trust their own God-given powers of judgment. It is time you looked at these scriptures and studied them rationally for yourselves — instead of following teaching that interprets them in support of what is wrong, rather than what is right.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Women in particular have outsourced their faith to male clergy and don't trust their own judgment — it's time to read scripture rationally for themselves.
 
 </div>
 </div>
@@ -567,7 +663,9 @@ This drew the men out of the city to meet him themselves. And once they had, the
 The very first act of the day of Pentecost was to declare that the time would come when the spirit would be poured out on women. Phoebe was a minister of Christ. Male religious gatekeeping has narrowed the word "minister" so as to apply only to men instead of women. The degradation of the women of that earlier age had its effect.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Women were spiritual leaders from the beginning — Deborah, Huldah, the Samaritan woman, Phoebe — and male religious gatekeeping has since erased women from the word "minister."
 
 </div>
 </div>
@@ -589,7 +687,9 @@ People should judge more intelligently than to take the practices of past ages a
 If anyone is so faithless that they still need outward corroborating testimony, they will find it in every age and from the earliest times, as recorded in the Bible. _That_ is the value of scripture among us. We have no right to go to it now to establish a creed or a form. We don't control our opinions; we can't believe at will — and so belief itself can't be a moral achievement. We don't have the power to control what we are; it is the circumstances around us, and our capacity to receive, that bring us to see, to know, and to believe. For the Bible to be invaluable to us, we have to use it differently.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Scripture's value is as historical witness, not as the source of creeds. Belief is involuntary — shaped by circumstance — and therefore can't be a moral achievement.
 
 </div>
 </div>
@@ -609,7 +709,9 @@ Goodness has been goodness in every age of the world; justice, justice; uprightn
 This is the way God reveals himself to his children. It has been so in every age — and it is emphatically the case today, an age marked by all the advances of this generation. This is what should be held up as evidence that Christianity is being better understood: that the reverence of the people is being drawn away from excessive observance of Sabbath days and church-worship, and that they are coming to judge for themselves what is right whenever they are disposed to do so. How plentiful the testimonies of the scriptures are in favor of what is right, across every age!
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Goodness has always meant goodness. The evidence that Christianity is being better understood today is that people are drifting from sabbath-observance and church-worship and starting to judge for themselves.
 
 </div>
 </div>
@@ -629,7 +731,9 @@ The work God has chosen is easy to recognize:
 Jesus did not say _blessed are those who believe in the trinity_, or _blessed are those who buy into the popular scheme of salvation_, or _blessed are those who believe in some mysterious divinity attached to himself_.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+God's chosen work is to free the oppressed. Jesus never said _blessed are those who hold the right theology_ — that was never the test.
 
 </div>
 </div>
@@ -647,7 +751,9 @@ He said nothing of the kind. He called them to judge him by his works:
 > "If I do the right works, believe me and the Father also, for I come from the Father."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Jesus told people to judge him by his works, not by their belief in him.
 
 </div>
 </div>
@@ -667,7 +773,9 @@ What he said was:
 — but not the kind of "meek" that bows before denominational authority. We must know a meekness that makes us "as bold as a lion," so that we may proclaim righteousness, pull this generation back from its sins, and denounce the false meekness that submits to denominational authority.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Real meekness — the kind Jesus blessed — is lion-bold, not the false meekness that submits to denominational authority.
 
 </div>
 </div>
@@ -683,7 +791,9 @@ Jesus declared this by his life of goodness, of active righteousness, of pure mo
 Jesus declared this through his life — a life of goodness, active righteousness, pure morality, and sympathy for the poor. If we are to place Jesus on a high pedestal, it should be for love of his principles — not for the supposed divine attributes that those who delight in worshipping him ceremonially want to elevate him for.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Jesus should be elevated for his moral example, not for the divine attributes that ceremonial worshippers want to attach to him.
 
 </div>
 </div>
@@ -703,7 +813,9 @@ It is no surprise that there is atheism in the world while such false ideas of G
 — then we must work to carry it out, and not file it away in some distant "millennium." Why, the millennium is here. The kingdom of God has come.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+You can't reason your way to God — the only path is through right action. The kingdom of God isn't a distant future event; it's already here.
 
 </div>
 </div>
@@ -719,7 +831,9 @@ This is what we want to preach. Oh that the fruits of this divine spirit should 
 This is what we want to preach. May the fruits of this divine spirit appear — love, peace, joy, goodness, truth: the spirit that is first gentle, pure, full of mercy, full of good fruits. There is no disparagement of good works here.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The fruits we want to see are love, peace, joy, goodness, truth — and good works are not being dismissed.
 
 </div>
 </div>
@@ -743,7 +857,9 @@ They looked forward and prophetically proclaimed the day when:
 > "And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle-bow shall be cut off; and he shall speak peace unto the heathen; and his domination shall be from sea even to sea, and from the river even to the ends of the earth."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+When we preach a religion of doing nothing, we forget that ancient prophets already proclaimed the end of war — swords into ploughshares, peace from sea to sea.
 
 </div>
 </div>
@@ -759,7 +875,9 @@ If we are believers in this, and believe in the Messiah that came with such a be
 If we are believers in this — if we believe in the Messiah who came with such a beautiful announcement — then it is time that those of us who love the name of Christ parted with war, and left nations to settle their disputes in some way that puts an end to the barbarism of war. It is abominable that we should retain it — that we should still resort to arms.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+If we really believe in the Prince of Peace, it's time Christians abandoned war and found non-violent ways for nations to resolve disputes.
 
 </div>
 </div>
@@ -775,7 +893,9 @@ But the efforts for the dominion of peace are greater now than ever before. The 
 But the efforts for the rule of peace are greater now than ever before. The very first message transmitted across the Atlantic by telegraph — that mightiest of human instruments, the offspring of the divine intellectual capacity of our species, achieved in our own day — was a prophetic vision of greater peace on earth. There is something so beautiful in this universal human instinct for what is right, that it pains me to know intelligent, self-identified Christians give their assent to the continuation of any of these relics of the dark ages.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The efforts for peace are stronger than ever — even the new transatlantic telegraph was a prophetic vision of peace — yet intelligent Christians still defend war, a relic of the dark ages.
 
 </div>
 </div>
@@ -791,7 +911,9 @@ Let us do away with these things. We need the faith that works by love, and puri
 Let us do away with these things. We need the faith that works through love, and purifies the heart. And it is sorrowful that human hearts should be turned from what is right by the temptations that so easily beset them — leading them to do injustice to their fellow human beings, binding them down to slavery.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+We need a faith that works through love — and it's tragic that temptation leads people to enslave their fellow humans.
 
 </div>
 </div>
@@ -807,7 +929,9 @@ Ah! The chains of human bondage! They should make everyone to blush and hang his
 Ah — the chains of human bondage! They should make every one of us blush and hang our heads. It is mournful that people should keep the Sabbath one day and the next endorse a system in which their fellow human beings are sold at the auction-block to the highest bidder. We should speak out against the wicked claim of a right to property in human beings — and worst of all is hearing this institution claimed as sanctioned by the Bible.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+People keep the Sabbath one day and endorse the slave auction the next — and the worst part is hearing slavery claimed as biblically sanctioned.
 
 </div>
 </div>
@@ -827,7 +951,9 @@ It is the grossest distortion of the Bible, and yet many ministers have shameful
 We are all guilty of our brother's blood. The crime is national. We are all involved in it — so how can we go forward professing to believe the faith of the Son of God, with all these great wrongs and evils clinging to us — wrongs we ourselves uphold?
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The verse to quote is "Woe unto him that useth his neighbor's service without wages" — not the pro-slavery proof texts. Slavery is a national crime, and we are all complicit.
 
 </div>
 </div>
@@ -843,7 +969,9 @@ Have we nothing to do with it? Everyone has a responsibility in it. We are calle
 Have we nothing to do with it? Every one of us has a responsibility in it. We are called to speak out against sin, of whatever form, in whatever way it is presented. And how are we doing it? By eating the fruits of the slave's labor? Our very clothes are stained with the blood of the slave.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+We're not bystanders — by consuming the products of slave labor, our very clothes are stained with the slave's blood.
 
 </div>
 </div>
@@ -859,7 +987,9 @@ Let us, then, be clean-handed. Seek to be so; and if we find the monstrous evil 
 Let us, then, be clean-handed. Seek to be so. And if we find this monstrous evil so woven into what we have to do — politically, commercially, through manufacturing interests, through our domestic life — then all the more reason for us to labor against it.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+If slavery is woven into our politics, commerce, manufacturing, and domestic life, that's all the more reason to work against it.
 
 </div>
 </div>
@@ -879,7 +1009,9 @@ Every church on earth should be roused — every people, every profession, every
 — but we have rejected the light of Christ.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Democratic, republican America is the last civilized stronghold of slavery — and in keeping it, we've rejected the light of Christ.
 
 </div>
 </div>
@@ -901,7 +1033,9 @@ We are told that the Lord, _in his own time_, is going to put an end to slavery.
 And because you have not done so, you will fall victim to the plagues around you. This is where we need faith — to know that we must reap the reward of our own actions.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Waiting for the Lord to fix slavery is no answer — the only path is people stepping up to defend what's right. We will reap the consequences of our own actions.
 
 </div>
 </div>
@@ -917,7 +1051,9 @@ I have nothing to do with preaching to you about what we shall be [in the] herea
 I have no interest in preaching to you about what we will be in the afterlife. Even now, through our obedience, we enter that kingdom — the one of righteousness, peace, and joy in the Holy Spirit. We already know something of that higher life — glimpses of a closer connection with the divine — enough to grasp, however limited our understanding, that we can lift ourselves above our mortal nature toward something lasting.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+I'm not here to preach about the afterlife. The kingdom is accessible right now — through doing right — and we already get glimpses of that higher life.
 
 </div>
 </div>
@@ -933,7 +1069,9 @@ We need, therefore, this faith, which will make us believe and know, that if we 
 We need, therefore, this faith — the kind that will make us believe and know that if we do wrong, we have to receive the consequences of that wrong. There is no favoritism with God: he "rewardeth every man according to his works," and according to the fruits of his actions. God's laws are eternal, and I wish there were more conscientious believers in the immutable laws of God.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+God shows no favoritism; we reap what we sow. I wish more people genuinely believed in those immutable moral laws.
 
 </div>
 </div>
@@ -949,7 +1087,9 @@ It is impossible to hold any nation in slavery, when their minds shall be enligh
 It is impossible to hold any nation in slavery once their minds are sufficiently enlightened to appreciate the blessings of liberty. When the sacred principles of truth become clear to people's understanding, all your "theologists" will collapse before them! The rightful test of Christian character will then be peace, love, justice, and a demand for greater equality among people. There will no longer be the lordly heel of a government trampling on its people — no longer a high-born aristocracy exercising its exclusivity — no longer an ambitious priesthood bringing everyone under its spiritual domination.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Enlightened minds can't be enslaved. When truth wins out, the test of Christian character will be peace, love, justice, and equality — and tyrannical governments, aristocracies, and power-hungry clergy will all fall.
 
 </div>
 </div>
@@ -965,7 +1105,9 @@ It is time these things were understood: time that we should show how simple the
 It is time these things were understood — time we showed how simple the religion of Jesus actually is. This was the highest theology Jesus ever uttered:
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+The religion of Jesus is simple. Here is the highest theology he ever uttered...
 
 </div>
 </div>
@@ -983,7 +1125,9 @@ It is time these things were understood — time we showed how simple the religi
 The soil must be good, and the seed it receives must be cared for, so that it may produce after its kind. And what will it produce? Ah — what will it not produce, my young friends? Don't overlook the truth of God. Nothing requires you to undervalue your natural powers. Let them grow with your growth and become strong, and you will be made advocates of what is right.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+"By their fruits you will know them." Don't undervalue your natural powers, young people — let them grow, and you'll become advocates of what is right.
 
 </div>
 </div>
@@ -999,7 +1143,9 @@ This is really a notable age, and we have to hail it that we have not to wait fo
 This is genuinely a remarkable age, and we should hail the fact that we do not have to wait for some far-distant day for the kingdom of God to come. There is an advancement underway, and its influence is felt so strongly that the minister is beginning to be ashamed to turn the pages of the Bible to prove what is wrong, instead of to find in them support for what is right. Young people always hear truth gladly; in their hearts there is an instinctive revolt against wrong. If the love of power were not so widespread among us, there would already be an instinctive revolt against slavery and wrongdoing.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+This is a remarkable age. Ministers are ashamed to use scripture to defend wrong, and young people have an instinctive revolt against injustice — only the love of power is holding back a wholesale rejection of slavery.
 
 </div>
 </div>
@@ -1015,7 +1161,9 @@ And see how the reformer can stand before the Bible and say, Ye tell us that ye 
 And see how the reformer can stand before the Bible and say: you tell us you treat the slave kindly — but I say to you, hold no slaves at all. Do justice to the colored man. Do away with your infernal prejudices; they are infernal. This impure spirit, this wrong you indulge in, is not from above; it is earthly, sensual, devilish. A grave charge rests on those of you who countenance the wickedness of American slavery.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Don't tell us you treat slaves kindly — hold no slaves at all. Racial prejudice is infernal, and slavery is a grave charge against everyone who tolerates it.
 
 </div>
 </div>
@@ -1035,7 +1183,9 @@ Public sentiment is changing. Even though the political horizon may darken, beli
 So, having gone forth in this way, we now see how it is renewing the church and purifying it of its corruptions.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Public sentiment is changing — the work of Beecher, Garrison, Wilberforce, and others has not been wasted, and it's renewing the church.
 
 </div>
 </div>
@@ -1071,7 +1221,9 @@ The temperance movement is likewise prospering. It has shown great advancement i
 > "the kingdom of God is at hand."
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Temperance is winning, war is losing ground, moral persuasion is gaining — all signs of the gospel coming in to level social distinctions and establish equality. The kingdom of God is here.
 
 </div>
 </div>
@@ -1087,7 +1239,9 @@ The people flock more to hear moral discourses than to hear the preaching from t
 More people flock to hear moral discourses than to hear preaching from the pulpit. This would not be the case if pulpit preaching were the preaching of Jesus. The common people have a sharp instinct for religious truth — and I will trust the people. I have confidence in their intuitive sense of what is right, of what is good. It is to this great heart of the people that we are to preach, proclaiming liberty and truth, justice and right. Let it be done.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Ordinary people flock to moral discourse over pulpit preaching, and they have a sharp instinct for what's right — I trust them.
 
 </div>
 </div>
@@ -1103,7 +1257,9 @@ The immediate teaching of God's holy spirit, inspiring love for the brethren, in
 The immediate teaching of God's holy spirit — inspiring love for our fellow human beings, inspiring a desire to promote good — is your mission. Oh, it is your heavenly calling: obey it, and don't wait around for some miraculous sign. Obey it, my young friends! Come to the harvest, and labor truly.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Your mission is the direct teaching of the spirit — love for others, desire to do good. Obey it now; don't wait for a miracle.
 
 </div>
 </div>
@@ -1119,7 +1275,9 @@ There is need to labor in a world lying in evil. There is need of preachers agai
 There is need of labor in a world lying in evil. There is need of preachers against the excesses of the age. There is need of preachers against the existing monopolies and banking institutions, by which the rich are made richer and the poor poorer. You, oh man of God — flee these things and follow what is right! It is contrary to the spirit of this Republic that any should be so rich. Let this blessed Christian equality prevail.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+We need preachers against monopolies and banks that make the rich richer and poor poorer. Extreme wealth is un-American — let real Christian equality prevail.
 
 </div>
 </div>
@@ -1139,7 +1297,9 @@ Let us have a Republic marked by its Christian principles — and by "Christian"
 — and that Christianity will not have done its work on earth until believers have learned to respect its rights and privileges through a toleration without limits, a faith without contention.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+A Republic marked by Christian principles, by which I mean universally right principles — closing the inclusio with the opening Foxton lines.
 
 </div>
 </div>
@@ -1155,7 +1315,9 @@ That faith will fill the heart with holy joy. Thanksgiving will come up from suc
 That faith will fill the heart with holy joy. Thanksgiving will rise up from such a heart, and there will be an entering into the joy of the Lord — acknowledging that he is good, that his mercy is everlasting, and that his truth endures.
 
 </div>
-<div class="commentary">
+<div class="summary">
+
+Closing benediction: that faith brings joy, thanksgiving, and confidence in God's enduring goodness.
 
 </div>
 </div>
