@@ -310,21 +310,18 @@ figure.figure-row figcaption {
 /* Three-column: original | modern rendition | commentary.
    Each .three-col is one row; rows stack so a long cell pushes the next row
    down on all three sides together. */
-.post-body { counter-reset: three-col; }
-
 .three-col {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1.5rem;
   margin: 1.5rem 0;
-  margin-left: calc(50% - 50vw + 2rem);
-  margin-right: calc(50% - 50vw + 2rem);
-  counter-increment: three-col;
+  margin-left: calc(50% - 50vw + 4rem);
+  margin-right: calc(50% - 50vw + 2.5rem);
   position: relative;
+  scroll-margin-top: 1rem;
 }
 
-.three-col::before {
-  content: counter(three-col);
+.three-col .para-num {
   position: absolute;
   top: 0;
   left: -2.5rem;
@@ -333,14 +330,39 @@ figure.figure-row figcaption {
   font-weight: 600;
   color: var(--color-muted);
   font-variant-numeric: tabular-nums;
+  text-decoration: none;
+}
+
+.three-col .para-num:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.three-col:target {
+  background: #fff8ec;
 }
 
 @media (max-width: 60rem) {
-  .three-col::before {
+  .three-col .para-num {
     position: static;
     display: block;
     margin-bottom: 0.25rem;
   }
+}
+
+/* Flow chart paragraph anchors */
+.flow .box ol li > .id a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.flow .box ol li > .id a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.flow .box ol li:target {
+  background: #fff8ec;
 }
 
 
@@ -397,4 +419,113 @@ figure.figure-row figcaption {
   font-family: var(--font-sans);
   font-size: 0.85rem;
   color: var(--color-muted);
+}
+
+/* Rhetorical flow diagram — semantic HTML styled to evoke an ASCII chart */
+.flow {
+  font-family: ui-monospace, "SF Mono", Menlo, Monaco, Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  max-width: 48rem;
+  margin: 2rem auto;
+}
+
+.flow .box {
+  border: 1px solid var(--color-text);
+  border-radius: 2px;
+  padding: 1rem 1.25rem;
+  background: var(--color-bg);
+}
+
+.flow .box.thesis,
+.flow .box.pivot,
+.flow .box.peroration {
+  border: 3px double var(--color-text);
+}
+
+.flow .box.pivot {
+  text-align: center;
+}
+
+.flow .box .label {
+  font-weight: 700;
+  text-transform: none;
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.flow .box .lede {
+  font-style: italic;
+  margin: 0 0 0.75rem;
+  color: var(--color-muted);
+}
+
+.flow .box ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.flow .box ol li {
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  gap: 0.5rem;
+  padding: 0.15rem 0;
+}
+
+.flow .box ol li > .id {
+  font-weight: 600;
+  color: var(--color-muted);
+}
+
+.flow .box ol li.star > .body::before {
+  content: "★ ";
+  color: var(--color-accent);
+}
+
+.flow .box .restate {
+  margin: 0.75rem 0;
+  padding: 0.5rem 0;
+  border-top: 1px solid var(--color-rule);
+  border-bottom: 1px solid var(--color-rule);
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.flow .box .restate .id {
+  font-weight: 700;
+}
+
+.flow .box .subhead {
+  margin: 0.75rem 0 0.25rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  letter-spacing: 0.04em;
+}
+
+.flow .box .quote {
+  display: block;
+  margin: 0.25rem 0;
+  padding-left: 0.5rem;
+}
+
+.flow .connector {
+  display: block;
+  text-align: center;
+  font-size: 1rem;
+  color: var(--color-muted);
+  line-height: 1;
+  margin: 0.4rem 0;
+}
+
+.flow .connector::before {
+  content: "│";
+  display: block;
+}
+
+.flow .connector::after {
+  content: "▼";
+  display: block;
+  margin-top: 0.1rem;
 }
